@@ -1,4 +1,4 @@
-# Hi, I'm Valdiaz Gahari! 👋
+# Hi, I'm Valdiaz Gahari!
 
 ### 👨‍💻 Full Stack Developer Enthusiast
 
@@ -12,9 +12,13 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
-![Valdiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=vexuroooxy&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexuroooxy&show_icons=true&theme=tokyonight)
+
+### 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexuroooxy&layout=compact&theme=tokyonight)
 
 <!--
 **vexuroooxy/vexuroooxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
