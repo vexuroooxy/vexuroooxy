@@ -16,11 +16,11 @@
 
 ### My GitHub Stats
 
-![Valdiaz GitHub stats](https://github-readme-stats.vercel.app/api?username=vexuroooxy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexuroooxy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexuroooxy&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexuroooxy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vexuroooxy/vexuroooxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
