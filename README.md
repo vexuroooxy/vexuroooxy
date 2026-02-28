@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valdiaz%20Gahari&fontSize=70&animation=fadeIn" />
+</p>
+
 # Hi, I'm Valdiaz Gahari!
 
 ### Full Stack Developer Enthusiast
@@ -14,29 +18,13 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### My GitHub Stats
+### GitHub Analysis
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=vexuroooxy&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vexuroooxy&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vexuroooxy&layout=compact&theme=radical" height="150" />
+</p>
 
-### Top Languages
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vexuroooxy&layout=compact&theme=tokyonight)
-
-### GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vexuroooxy&theme=tokyonight)
-
-<!--
-**vexuroooxy/vexuroooxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexuroooxy&theme=radical" alt="GitHub Streak" />
+</p>
